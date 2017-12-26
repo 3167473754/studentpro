@@ -1,0 +1,65 @@
+2017-12-19 22:38:52,945 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@1ccaa: startup date [Tue Dec 19 22:38:52 CST 2017]; root of context hierarchy
+2017-12-19 22:38:52,992 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2017-12-19 22:41:23,045 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@1ccaa: startup date [Tue Dec 19 22:41:23 CST 2017]; root of context hierarchy
+2017-12-19 22:41:23,092 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2017-12-19 22:42:11,463 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@1ccaa: startup date [Tue Dec 19 22:42:11 CST 2017]; root of context hierarchy
+2017-12-19 22:42:11,525 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2017-12-19 22:43:02,925 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@1ccaa: startup date [Tue Dec 19 22:43:02 CST 2017]; root of context hierarchy
+2017-12-19 22:43:02,972 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2017-12-19 22:45:01,160 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@1ccaa: startup date [Tue Dec 19 22:45:01 CST 2017]; root of context hierarchy
+2017-12-19 22:45:01,208 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2017-12-19 22:47:30,641 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@1ccaa: startup date [Tue Dec 19 22:47:30 CST 2017]; root of context hierarchy
+2017-12-19 22:47:30,684 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2017-12-21 18:47:06,116 WARN [org.apache.maven.cli.logging.impl.UnsupportedSlf4jBindingConfiguration] - The SLF4J binding actually used is not supported by Maven: org.slf4j.impl.Log4jLoggerFactory
+2017-12-21 18:47:06,117 WARN [org.apache.maven.cli.logging.impl.UnsupportedSlf4jBindingConfiguration] - Maven supported bindings are:
+2017-12-21 18:47:06,117 WARN [org.apache.maven.cli.logging.impl.UnsupportedSlf4jBindingConfiguration] - (from jar:file:/D:/maven/apache-maven-3.5.2-bin/apache-maven-3.5.2/lib/maven-embedder-3.5.2.jar!/META-INF/maven/slf4j-configuration.properties)
+- org.apache.logging.slf4j.Log4jLoggerFactory
+- ch.qos.logback.classic.LoggerContext
+- org.slf4j.impl.MavenSimpleLoggerFactory
+- org.slf4j.impl.SimpleLoggerFactory
+2017-12-21 18:47:11,221 WARN [org.apache.maven.cli.configuration.SettingsXmlConfigurationProcessor] - 
+2017-12-21 18:47:11,223 WARN [org.apache.maven.cli.configuration.SettingsXmlConfigurationProcessor] - Some problems were encountered while building the effective settings
+2017-12-21 18:47:11,225 WARN [org.apache.maven.cli.configuration.SettingsXmlConfigurationProcessor] - expected START_TAG or END_TAG not TEXT (position: TEXT seen ...<name>aliyun maven</name>\n  \u3000\u3000<u... @167:7)  @ D:\maven\apache-maven-3.5.2-bin\apache-maven-3.5.2\conf\settings.xml, line 167, column 7
+2017-12-21 18:47:11,226 WARN [org.apache.maven.cli.configuration.SettingsXmlConfigurationProcessor] - expected START_TAG or END_TAG not TEXT (position: TEXT seen ...<name>aliyun maven</name>\n  \u3000\u3000<u... @167:7)  @ D:\maven\apache-maven-3.5.2-bin\apache-maven-3.5.2\conf\settings.xml, line 167, column 7
+2017-12-21 18:47:11,230 WARN [org.apache.maven.cli.configuration.SettingsXmlConfigurationProcessor] - 
+2017-12-21 18:47:11,492 INFO [org.apache.maven.cli.event.ExecutionEventLogger] - Scanning for projects...
+2017-12-21 18:47:11,792 WARN [org.apache.maven.graph.DefaultGraphBuilder] - 
+2017-12-21 18:47:11,795 WARN [org.apache.maven.graph.DefaultGraphBuilder] - Some problems were encountered while building the effective model for cn.ylcto:studentpro:war:1.0-SNAPSHOT
+2017-12-21 18:47:11,795 WARN [org.apache.maven.graph.DefaultGraphBuilder] - 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-compiler-plugin is missing. @ line 167, column 14
+2017-12-21 18:47:11,795 WARN [org.apache.maven.graph.DefaultGraphBuilder] - 
+2017-12-21 18:47:11,795 WARN [org.apache.maven.graph.DefaultGraphBuilder] - It is highly recommended to fix these problems because they threaten the stability of your build.
+2017-12-21 18:47:11,795 WARN [org.apache.maven.graph.DefaultGraphBuilder] - 
+2017-12-21 18:47:11,795 WARN [org.apache.maven.graph.DefaultGraphBuilder] - For this reason, future Maven versions might no longer support building such malformed projects.
+2017-12-21 18:47:11,795 WARN [org.apache.maven.graph.DefaultGraphBuilder] - 
+2017-12-21 18:47:11,873 INFO [org.apache.maven.cli.event.ExecutionEventLogger] - 
+2017-12-21 18:47:11,882 INFO [org.apache.maven.cli.event.ExecutionEventLogger] - ------------------------------------------------------------------------
+2017-12-21 18:47:11,882 INFO [org.apache.maven.cli.event.ExecutionEventLogger] - Building studentpro Maven Webapp 1.0-SNAPSHOT
+2017-12-21 18:47:11,882 INFO [org.apache.maven.cli.event.ExecutionEventLogger] - ------------------------------------------------------------------------
+2017-12-21 18:47:12,118 INFO [org.apache.maven.cli.event.ExecutionEventLogger] - 
+2017-12-21 18:47:12,119 INFO [org.apache.maven.cli.event.ExecutionEventLogger] - --- maven-clean-plugin:2.5:clean (default-clean) @ studentpro ---
+2017-12-21 18:47:12,708 INFO [org.apache.maven.plugin.clean.CleanMojo] - Deleting D:\eclipsedaima\studentpro\target
+2017-12-21 18:47:12,813 INFO [org.apache.maven.cli.event.ExecutionEventLogger] - ------------------------------------------------------------------------
+2017-12-21 18:47:12,814 INFO [org.apache.maven.cli.event.ExecutionEventLogger] - BUILD SUCCESS
+2017-12-21 18:47:12,814 INFO [org.apache.maven.cli.event.ExecutionEventLogger] - ------------------------------------------------------------------------
+2017-12-21 18:47:12,814 INFO [org.apache.maven.cli.event.ExecutionEventLogger] - Total time: 1.542 s
+2017-12-21 18:47:12,815 INFO [org.apache.maven.cli.event.ExecutionEventLogger] - Finished at: 2017-12-21T18:47:12+08:00
+2017-12-21 18:47:12,863 INFO [org.apache.maven.cli.event.ExecutionEventLogger] - Final Memory: 5M/15M
+2017-12-21 18:47:12,863 INFO [org.apache.maven.cli.event.ExecutionEventLogger] - ------------------------------------------------------------------------
+2017-12-26 13:46:05,873 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@71f2a7d5: startup date [Tue Dec 26 13:46:05 CST 2017]; root of context hierarchy
+2017-12-26 13:46:06,085 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2017-12-26 13:46:07,993 INFO [org.springframework.context.support.PropertySourcesPlaceholderConfigurer] - Loading properties file from class path resource [database.properties]
+2017-12-26 13:46:09,217 INFO [com.mchange.v2.log.MLog] - MLog clients using log4j logging.
+2017-12-26 13:46:10,042 INFO [com.mchange.v2.c3p0.C3P0Registry] - Initializing c3p0-0.9.1.2 [built 21-May-2007 15:04:56; debug? true; trace: 10]
+2017-12-26 13:46:11,306 WARN [org.springframework.context.support.ClassPathXmlApplicationContext] - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'adminLoginAction': Unsatisfied dependency expressed through field 'request'; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean found for dependency [javax.servlet.http.HttpServletRequest]: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+2017-12-26 13:49:00,386 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@71f2a7d5: startup date [Tue Dec 26 13:49:00 CST 2017]; root of context hierarchy
+2017-12-26 13:49:00,543 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2017-12-26 13:49:02,885 INFO [org.springframework.context.support.PropertySourcesPlaceholderConfigurer] - Loading properties file from class path resource [database.properties]
+2017-12-26 13:49:03,838 INFO [com.mchange.v2.log.MLog] - MLog clients using log4j logging.
+2017-12-26 13:49:04,463 INFO [com.mchange.v2.c3p0.C3P0Registry] - Initializing c3p0-0.9.1.2 [built 21-May-2007 15:04:56; debug? true; trace: 10]
+2017-12-26 13:49:05,579 WARN [org.springframework.context.support.ClassPathXmlApplicationContext] - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'adminLoginAction': Unsatisfied dependency expressed through field 'request'; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean found for dependency [javax.servlet.http.HttpServletRequest]: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+2017-12-26 13:53:43,734 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@71f2a7d5: startup date [Tue Dec 26 13:53:43 CST 2017]; root of context hierarchy
+2017-12-26 13:53:43,823 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2017-12-26 13:53:44,852 INFO [org.springframework.context.support.PropertySourcesPlaceholderConfigurer] - Loading properties file from class path resource [database.properties]
+2017-12-26 13:53:45,714 INFO [com.mchange.v2.log.MLog] - MLog clients using log4j logging.
+2017-12-26 13:53:46,491 INFO [com.mchange.v2.c3p0.C3P0Registry] - Initializing c3p0-0.9.1.2 [built 21-May-2007 15:04:56; debug? true; trace: 10]
+2017-12-26 13:53:47,885 WARN [org.springframework.context.support.ClassPathXmlApplicationContext] - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'adminLoginAction': Unsatisfied dependency expressed through field 'request'; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean found for dependency [javax.servlet.http.HttpServletRequest]: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
